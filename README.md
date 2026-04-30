@@ -5,23 +5,34 @@ A HTML coded app for journalling trades.
 Features
 
 Trade logging (entry, exit, position size, etc.)
+
 Profit/Loss tracking
+
 Screenshot attachment
+
 Performance analytics
+
 Notes and reflections
+
 Trading stratagies
+
 Set goals
+
 Multiple accounts added
+
 Full screen mode
+
 For use offline
 
 ---------------------
 
 Installation
 
-Download the .html file
+Download the .html file.
+
 Open it in web browser (I have tested it in brave and chrome)
-On the account creation screen, enter whatever username you want - This is only stored locally and not connected to internet.
+
+On the account creation screen, enter whatever username you want - This is only stored locally and not connected to internet
 
 ---------------------
 
@@ -36,18 +47,25 @@ Limitations
 
 
 Data stored locally (clears if browser storage is wiped)
+
 No cloud sync
+
 No broker/API integration (Will hopefully add this in future)
 
 ---------------------
 
-Planned improvements.
+Planned improvements
 
 Broker integration (e.g. cTrader API)
+
 Advanced analytics dashboard
+
 Mobile optimisation
+
 Link with Ai to provide insights
+
 Achievement / milestone system
+
 Interface improvements
 
 ---------------------
@@ -56,7 +74,7 @@ OPEN TO COLLABORATION
 
 ---------------------
 
-State usage rights.
+Usage rights
 
 Do as you wish, donate if feeling cheeky
 
