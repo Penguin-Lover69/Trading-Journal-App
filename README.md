@@ -20,7 +20,7 @@ Installation
 
 Download the .html file
 Open it in web browser (I have tested it in brave and chrome)
-
+On the account creation screen, enter whatever username you want - This is only stored locally and not connected to internet.
 ---------------------
 
 
