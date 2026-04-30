@@ -13,6 +13,7 @@ Trading stratagies
 Set goals
 Multiple accounts added
 Full screen mode
+For use offline
 
 ---------------------
 
